@@ -1,0 +1,3 @@
+My name is Ed Donner. I'm software engineer and data scientist. I'm originally from India.
+Focus on Data Science and Engineering, Machine Learning and
+Python Programming Language.
